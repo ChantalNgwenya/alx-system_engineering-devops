@@ -1,1 +1,3 @@
-This repo is about shell basics and how to manipulate files and working with commands
+#**Shell Redirections**#
+O/I Redirections - Input and Output redirections
+
